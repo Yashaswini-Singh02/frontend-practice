@@ -1,0 +1,166 @@
+a{
+color: white;
+width: 118px;
+height: 35px;
+left: 960px;
+top: 186px;
+text-decoration: none;
+font-family: 'Montserrat',sans-serif;
+font-style: italic;
+font-weight: 400;
+font-size: 29.8252px;
+line-height: 35px;
+/* identical to box height */
+
+}
+body{
+    background:  #FFE8C8;
+}
+.visitus {
+    border:none;
+    margin-top: 5px;;
+    margin-left:30px;
+    position: absolute;
+    width: 273.4px;
+    height: 64px;
+    left: 886px;
+    top: 172px;
+    background: #A66000;
+    transform: Skew(-10deg);
+    border-radius: 25px;
+ }
+ .shopnow{
+border:none;
+position: absolute;
+width: 440px;
+height: 80px;
+left: 770px;
+top: 871px;
+text-decoration: none;
+background: #A66000;
+transform: Skew(-10deg);
+border-radius: 25px;
+ }
+.borderleft{
+position: absolute;
+width: 32px;
+height: 1024px;
+left: 0px;
+top: 0px;
+background-color: #A66000;
+}
+
+.borderright{
+    position: absolute;
+    width: 32px;
+    height: 1024px;
+    right: 0px;
+    top: 0px;
+    background-color: #A66000;
+}
+
+
+.content{    
+    position: absolute;
+    width: 601.92px;
+    height: 132px;
+    left: 248px;
+    top: 289px;
+    margin-left: 15px;
+   
+    font-family: 'Montserrat',sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    
+    color: #000000;   
+}
+.subcontent{
+position: absolute;
+width: 601.92px;
+height: 132px;
+left: 248px;
+top: 460px;
+margin-left: 15px;
+font-family: 'Montserrat',sans-serif;
+font-style: italic;
+font-weight: 100;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+}
+ 
+h1{
+position: absolute;
+width: 632.7px;
+height: 123px;
+left: 248px;
+top: 144px;
+margin:0;
+margin-left: 15px;
+font-family: 'Montserrat',sans-serif;
+font-style: italic;
+font-weight: 500;
+font-size: 104.96px;
+line-height: 123px;
+/* identical to box height */
+color: #A66000;
+
+}
+.logo{
+    margin-left: 240px;
+    margin-top: 30px;
+}
+.modelphoto{
+position: absolute;
+width: 397px;
+height: 496px;
+left: 762px;
+top: 280px;
+margin-left: 10px;
+border-radius: 25px;
+}
+.clothesphoto{
+position: absolute;
+width: 409px;
+height: 400px;
+left: 248px;
+top: 616px;
+border-radius: 25px;
+}
+.rectangle1{
+position: absolute;
+width: 390px;
+height: 496px;
+left: 793px;
+top: 310px;
+margin-left: 10px;
+border-radius: 25px;
+background: #A66000;
+}
+.rectangle2{
+position: absolute;
+width: 409px;
+height: 430px;
+left: 227px;
+top: 595px;
+border-radius: 25px;
+background: #A66000;
+}
+
+a:hover{
+    color: #FFE8C8;
+}
+.visitus:hover{
+    transform: scale(1.1);
+    transition: ease-in;
+    transition-duration: 300ms;
+}
+.shopnow:hover{
+    transform: scale(1.1);
+    transition: ease-in;
+    transition-duration: 300ms;
+}
